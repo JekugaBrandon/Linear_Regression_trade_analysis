@@ -1,4 +1,5 @@
 # Linear_Regression_trade_analysis
+C:\Users\JEKUGA BRANDON\Desktop\trading_back_test\back_test.ipynb
 Analyzing trade and following trade direction for its ups/downs in order to enter the market
 Compact README (one-page summary for repo/post)
 Project: Linear-Regression Market Direction Predictor
